@@ -25,6 +25,21 @@
 
 ![Screenshot 2021-10-27 112206](https://user-images.githubusercontent.com/93004934/139000500-9ad1e4ec-04f5-40e0-a9cb-d59ef030047d.png)
 
+- Masukkan reamur anda
+
+![Screenshot 2021-10-27 113717](https://user-images.githubusercontent.com/93004934/139019382-e6e005dd-66c9-4fdc-a20d-c968c89c5653.png)
+
+- kita coba jalankan di python
+
+![Screenshot 2021-10-27 131848](https://user-images.githubusercontent.com/93004934/139019527-546213e3-f3de-464b-927c-74725914a609.png)
+
+- dan hasilnya bisa di lihat pada gambar
+
+![Screenshot 2021-10-27 130826](https://user-images.githubusercontent.com/93004934/139019632-847c8dde-ca3e-49fc-a0d3-299d92546ed6.png)
+
+
+
+
 
 
 
